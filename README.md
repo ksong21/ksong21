@@ -6,7 +6,7 @@ I'm a full stack developer with skills in but not limited to Java, JavaScript, N
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<\br>
+</br>
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn.vox-cdn.com/thumbor/-KCcGWaFIBC2YlTyt2V_875JI9M=/43x0:593x367/1400x1400/filters:focal(43x0:593x367):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/48667835/dbgxt2rvpd26udoyzcqn.0.0.jpg"/>
