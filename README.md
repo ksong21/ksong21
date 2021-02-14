@@ -9,7 +9,7 @@ I'm a full stack developer with skills in but not limited to Java, JavaScript, N
 </br>
 
 ### Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png"/>
+<img align="left" alt="Java" width="26px" src="https://cdn.vox-cdn.com/thumbor/-KCcGWaFIBC2YlTyt2V_875JI9M=/43x0:593x367/1400x1400/filters:focal(43x0:593x367):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/48667835/dbgxt2rvpd26udoyzcqn.0.0.jpg"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
