@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer with skills in but not limited to Spring Boot, Node.js, React, NoSQL, SQL, and UI/UX design.
+I'm a web developer with skills in Node.js, React, databases, UI/UX, and more.
 
 ### Connect with me:
 
