@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a software engineer with skills in React, Node.js, Spring Boot, SQL/NoSQL, UI/UX, and more.
+I'm a software engineer with a broad range of skills in React, Node.js, SQL/NoSQL, UI/UX, and more.
