@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hey. 👋
 
-I'm a software engineer with a broad range of skills in React, Node.js, SQL/NoSQL, UI/UX, and more.
+I'm a full stack software engineer with an emphasis on web.
